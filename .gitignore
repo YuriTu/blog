@@ -8,3 +8,4 @@ public/
 MWeb
 .idea
 ci.sh
+yarn.lock
